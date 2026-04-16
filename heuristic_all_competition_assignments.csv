@@ -1,0 +1,52 @@
+Match ID,Round,Team 1,Team 2,Assigned Stadium,Assigned City
+F_1,Final,Senegal,Morocco,Prince Moulay Abdellah Sports Complex,Rabat
+SF_2,Semifinal,Morocco,Nigeria,Prince Moulay Abdellah Sports Complex,Rabat
+SF_1,Semifinal,Senegal,Egypt,Prince Moulay Abdellah Sports Complex,Rabat
+QF_3,Quarterfinal,Cameroon,Morocco,Prince Moulay Abdellah Sports Complex,Rabat
+QF_1,Quarterfinal,Mali,Senegal,Grand Stadium of Tangier,Tangier
+QF_2,Quarterfinal,Egypt,Cote d'Ivoire,Grand Stadium of Agadir,Agadir
+QF_4,Quarterfinal,Algeria,Nigeria,Prince Moulay Abdellah Sports Complex,Rabat
+R16_3,Round of 16,Morocco,Tanzania,Prince Moulay Abdellah Sports Complex,Rabat
+R16_1,Round of 16,Senegal,Sudan,Grand Stadium of Tangier,Tangier
+R16_2,Round of 16,Mali,Tunisia,Prince Moulay Abdellah Sports Complex,Rabat
+R16_4,Round of 16,South Africa,Cameroon,Grand Stadium of Agadir,Agadir
+R16_5,Round of 16,Egypt,Benin,Grand Stadium of Agadir,Agadir
+R16_6,Round of 16,Nigeria,Mozambique,Prince Moulay Abdellah Sports Complex,Rabat
+R16_7,Round of 16,Algeria,DR Congo,Prince Moulay Abdellah Sports Complex,Rabat
+R16_8,Round of 16,Cote d'Ivoire,Burkina Faso,Mohammed V Complex,Casablanca
+A1,Group Stage,Morocco,Zambia,Prince Moulay Abdellah Sports Complex,Rabat
+A2,Group Stage,Morocco,Mali,Prince Moulay Abdellah Sports Complex,Rabat
+A3,Group Stage,Morocco,Comoros,Prince Moulay Abdellah Sports Complex,Rabat
+A4,Group Stage,Zambia,Mali,Mohammed V Complex,Casablanca
+A5,Group Stage,Zambia,Comoros,Mohammed V Complex,Casablanca
+A6,Group Stage,Mali,Comoros,Mohammed V Complex,Casablanca
+B1,Group Stage,Angola,South Africa,Grand Stadium of Marrakesh,Marrakesh
+B2,Group Stage,Angola,Egypt,Grand Stadium of Agadir,Agadir
+B3,Group Stage,Angola,Zimbabwe,Grand Stadium of Marrakesh,Marrakesh
+B4,Group Stage,South Africa,Egypt,Grand Stadium of Agadir,Agadir
+B5,Group Stage,South Africa,Zimbabwe,Grand Stadium of Marrakesh,Marrakesh
+B6,Group Stage,Egypt,Zimbabwe,Grand Stadium of Agadir,Agadir
+C1,Group Stage,Nigeria,Tunisia,Grand Stadium of Fez,Fez
+C2,Group Stage,Nigeria,Uganda,Grand Stadium of Fez,Fez
+C3,Group Stage,Nigeria,Tanzania,Grand Stadium of Fez,Fez
+C4,Group Stage,Tunisia,Uganda,Prince Moulay Abdellah Sports Complex,Rabat
+C5,Group Stage,Tunisia,Tanzania,Prince Moulay Abdellah Sports Complex,Rabat
+C6,Group Stage,Uganda,Tanzania,Prince Moulay Abdellah Sports Complex,Rabat
+D1,Group Stage,Senegal,Congo,Grand Stadium of Tangier,Tangier
+D2,Group Stage,Senegal,Benin,Grand Stadium of Tangier,Tangier
+D3,Group Stage,Senegal,Botswana,Grand Stadium of Tangier,Tangier
+D4,Group Stage,Congo,Benin,Prince Moulay Abdellah Sports Complex,Rabat
+D5,Group Stage,Congo,Botswana,Prince Moulay Abdellah Sports Complex,Rabat
+D6,Group Stage,Benin,Botswana,Prince Moulay Abdellah Sports Complex,Rabat
+E1,Group Stage,Algeria,Burkina Faso,Prince Moulay Abdellah Sports Complex,Rabat
+E2,Group Stage,Algeria,Equatorial Guinea,Prince Moulay Abdellah Sports Complex,Rabat
+E3,Group Stage,Algeria,Sudan,Prince Moulay Abdellah Sports Complex,Rabat
+E4,Group Stage,Burkina Faso,Equatorial Guinea,Mohammed V Complex,Casablanca
+E5,Group Stage,Burkina Faso,Sudan,Mohammed V Complex,Casablanca
+E6,Group Stage,Equatorial Guinea,Sudan,Mohammed V Complex,Casablanca
+F1,Group Stage,Cote d'Ivoire,Cameroon,Grand Stadium of Agadir,Agadir
+F2,Group Stage,Cote d'Ivoire,Gabon,Grand Stadium of Marrakesh,Marrakesh
+F3,Group Stage,Cote d'Ivoire,Mozambique,Grand Stadium of Marrakesh,Marrakesh
+F4,Group Stage,Cameroon,Gabon,Grand Stadium of Agadir,Agadir
+F5,Group Stage,Cameroon,Mozambique,Grand Stadium of Agadir,Agadir
+F6,Group Stage,Gabon,Mozambique,Grand Stadium of Agadir,Agadir

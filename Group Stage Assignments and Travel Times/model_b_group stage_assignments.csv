@@ -1,0 +1,37 @@
+Match ID,Group,Team 1,Team 2,Assigned Stadium,Assigned City
+A1,A,Morocco,Zambia,Prince Moulay Abdellah Sports Complex,Rabat
+A2,A,Morocco,Mali,Prince Moulay Abdellah Sports Complex,Rabat
+A3,A,Morocco,Comoros,Prince Moulay Abdellah Sports Complex,Rabat
+A4,A,Zambia,Mali,Mohammed V Complex,Casablanca
+A5,A,Zambia,Comoros,Mohammed V Complex,Casablanca
+A6,A,Mali,Comoros,Mohammed V Complex,Casablanca
+B1,B,Angola,South Africa,Grand Stadium of Marrakesh,Marrakesh
+B2,B,Angola,Egypt,Grand Stadium of Agadir,Agadir
+B3,B,Angola,Zimbabwe,Grand Stadium of Marrakesh,Marrakesh
+B4,B,South Africa,Egypt,Grand Stadium of Agadir,Agadir
+B5,B,South Africa,Zimbabwe,Grand Stadium of Marrakesh,Marrakesh
+B6,B,Egypt,Zimbabwe,Grand Stadium of Agadir,Agadir
+C1,C,Nigeria,Tunisia,Grand Stadium of Fez,Fez
+C2,C,Nigeria,Uganda,Grand Stadium of Fez,Fez
+C3,C,Nigeria,Tanzania,Grand Stadium of Fez,Fez
+C4,C,Tunisia,Uganda,Stade Al Medina,Rabat
+C5,C,Tunisia,Tanzania,Moulay El Hassan II Stadium,Rabat
+C6,C,Uganda,Tanzania,Moulay El Hassan II Stadium,Rabat
+D1,D,Senegal,Congo,Grand Stadium of Tangier,Tangier
+D2,D,Senegal,Benin,Grand Stadium of Tangier,Tangier
+D3,D,Senegal,Botswana,Grand Stadium of Tangier,Tangier
+D4,D,Congo,Benin,Stade Al Medina,Rabat
+D5,D,Congo,Botswana,Rabat Olympic Stadium,Rabat
+D6,D,Benin,Botswana,Moulay El Hassan II Stadium,Rabat
+E1,E,Algeria,Burkina Faso,Mohammed V Complex,Casablanca
+E2,E,Algeria,Equatorial Guinea,Mohammed V Complex,Casablanca
+E3,E,Algeria,Sudan,Stade Al Medina,Rabat
+E4,E,Burkina Faso,Equatorial Guinea,Mohammed V Complex,Casablanca
+E5,E,Burkina Faso,Sudan,Mohammed V Complex,Casablanca
+E6,E,Equatorial Guinea,Sudan,Mohammed V Complex,Casablanca
+F1,F,Cote d'Ivoire,Cameroon,Grand Stadium of Marrakesh,Marrakesh
+F2,F,Cote d'Ivoire,Gabon,Grand Stadium of Marrakesh,Marrakesh
+F3,F,Cote d'Ivoire,Mozambique,Grand Stadium of Marrakesh,Marrakesh
+F4,F,Cameroon,Gabon,Grand Stadium of Agadir,Agadir
+F5,F,Cameroon,Mozambique,Grand Stadium of Agadir,Agadir
+F6,F,Gabon,Mozambique,Grand Stadium of Agadir,Agadir
